@@ -1,7 +1,10 @@
 <img src="banner.png" alt="" />
 
 # Hi, I'm Shehjad
-*Software Engineer | Full-Stack | TypeScript | NestJS | NextJS | DevOps Enthusiast*
+
+_Software Engineer | Full-Stack | TypeScript | NestJS | NextJS | DevOps Enthusiast_
+
+👋 Hi, I'm a software engineer with a deep-rooted passion for building and scaling applications for the web. While I specialize in full-stack development, my strengths lean toward backend architecture, designing robust systems, and leading projects. I’m driven by the process of turning ideas into viable MVPs, especially in dynamic startup environments. When I'm not building software, I enjoy diving into new tech, exploring best practices in system design, and sharing insights through writing.
 
 <!--
 ## Hi there 👋

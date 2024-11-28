@@ -10,4 +10,4 @@ _Software Engineer | Full-Stack | TypeScript | Python | NestJS | NextJS | Linux 
 - 🌱 I'm currently learning **Microservices, DevOps, and System Design**
 - 🌟 I'm looking to contribute to open-source projects
 - 💬 Ask me about **Software Development, Project Management, or anything technology-related**
-- 📫 Reach me at **hello@shehjad.dev** or **shehjadcse@gmail.com**
+- 📫 Reach me at **hello@shehjad.dev**

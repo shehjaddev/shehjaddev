@@ -1,4 +1,4 @@
-<img src="banner.png" alt="" />
+<img src="newbanner.png" alt="" />
 
 # Hi, I'm Shehjad
 
